@@ -9,7 +9,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/pointlander/peg/tree"
+	"github.com/elireisman/peg/tree"
 )
 
 func main() {

@@ -4,7 +4,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/pointlander/peg/tree"
+	"github.com/elireisman/peg/tree"
 	"math"
 	"sort"
 	"strconv"
